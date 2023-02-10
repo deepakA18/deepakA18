@@ -1,4 +1,4 @@
-[![MasterHead]("https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif")]
+[![MasterHead]("https://i.pinimg.com/564x/0d/5e/66/0d5e6644082d5bca830f7993025bbd09.jpg")]
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">An aspiring BlockChain Developer from India</h3>
 <img align="right" alt="Developer" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
