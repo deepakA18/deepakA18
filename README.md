@@ -1,6 +1,6 @@
 [![MasterHead]("https://i.pinimg.com/564x/0d/5e/66/0d5e6644082d5bca830f7993025bbd09.jpg")]
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">An aspiring BlockChain Developer from India</h3>
+<h3 align="center">I'm a Student pursuing my bachelor's in Computer Engineering from India. Passionate about BlockChain & Web3.</h3>
 <img align="right" alt="Developer" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaka18&label=Profile%20views&color=0e75b6&style=flat" alt="deepaka18" /> </p>
