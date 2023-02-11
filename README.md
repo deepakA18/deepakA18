@@ -4,8 +4,6 @@
 
 <img align="right" alt="Developer" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaka18&label=Profile%20views&color=0e75b6&style=flat" alt="deepaka18" /> </p>
-
 <p align="left"> <a href="https://twitter.com/deepak_agashe18" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_agashe18?logo=twitter&style=for-the-badge" alt="deepak_agashe18" /></a> </p>
 
 - 🔭 I’m currently exploring **Web3**
