@@ -1,4 +1,4 @@
-![bedroom](https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif)
+![bedroom](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">I'm a Student pursuing my bachelor's in Computer Engineering from India. Passionate about BlockChain & Web3.</h3>
 
