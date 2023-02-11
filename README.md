@@ -1,4 +1,4 @@
-[![Setup]("https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif")]
+![Setup]("https://user-images.githubusercontent.com/79355239/143467976-43e524a2-c3cd-47cb-a3e5-6a8ed0bc4a69.gif")
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">I'm a Student pursuing my bachelor's in Computer Engineering from India. Passionate about BlockChain & Web3.</h3>
 <img align="right" alt="Developer" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
