@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepak_agashe18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_agashe18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak agashe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak agashe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-agashe-406483226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak agashe" height="30" width="40" /></a>
 <a href="https://hashnode.com/deepak agashe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="deepak agashe" height="30" width="40" /></a>
 </p>
 
