@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently exploring **Web3**
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 Connect me on [https://linktr.ee/DeepakAgashe](https://linktr.ee/DeepakAgashe)
 
