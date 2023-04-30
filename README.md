@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepak_agashe18" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_agashe18?logo=twitter&style=for-the-badge" alt="deepak_agashe18" /></a> </p>
 
-- 🔭 I’m currently exploring **Web3**
+- 🔭 I’m currently exploring **BlockChain Technology**
 
 - 🌱 I’m currently learning **ReactJS**
 
