@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/deepak_agashe18" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_agashe18?logo=twitter&style=for-the-badge" alt="deepak_agashe18" /></a> </p>
 
-- 🔭 I’m currently exploring **Solana**
+- 🔭 I’m currently exploring **Bitcoin**
 
-- 🌱 I’m currently learning **Backend_Development**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 Connect me on [https://linktr.ee/DeepakAgashe](https://linktr.ee/DeepakAgashe)
 
