@@ -1,4 +1,3 @@
-![bedroom](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">I'm a Student pursuing my bachelor's in Computer Engineering. Passionate about BlockChain & WebDev.</h3>
 
