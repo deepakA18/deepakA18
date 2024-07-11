@@ -1,4 +1,4 @@
- <h1 align="center">Hola <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Deepak</h1>
+ <h1 align="center">GM <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Deepak</h1>
 <h3 align="center">Full Stack Web3 Dev exploring DEFI!</h3>
 
 
