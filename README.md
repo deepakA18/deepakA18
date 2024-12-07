@@ -1,5 +1,5 @@
  <h1 align="center">GM <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Deepak</h1>
-<h3 align="center">Full Stack Web3 Dev exploring DEFI!</h3>
+<h3 align="center">Full Stack BlockChain Dev exploring DeFi!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakA18&label=Profile%20views&color=0e75b6&style=flat" alt="deepakA18" /> </p>
 
